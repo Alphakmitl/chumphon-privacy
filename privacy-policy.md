@@ -1,131 +1,46 @@
-นโยบายความเป็นส่วนตัว gochumphon.com
+Privacy Policy  
 ----------------
-- Gochumphon.com และ GoChumphon เป็นเว็บไซต์และแอปพลิเคชันให้บริการการท่องเที่ยวออนไลน์และบริการที่เกี่ยวข้องทั่วโลกแก่ลูกค้าสมาชิก พันธมิตรทางการค้า และบุคคลทั่วไป ซึ่งทาง 
-Gochumphon.com และ GoChumphon ("GoChumphon", "เรา" หรือ "ของเรา") เป็นผู้บริหารจัดการและดำเนินการเว็บไซต์ Gochumphon.com และแอปพลิเคชัน GoChumphon ตระหนักถึงความสำคัญของ
-ข้อมูลส่วนบุคคลและเคารพสิทธิความเป็นส่วนตัวของผู้ใช้บริการทุกท่าน นโยบายความเป็นส่วนตัวนี้จะอธิบายถึงวิธี ที่เรารวบรวม ใช้ เปิดเผย และดำเนินการเกี่ยวกับข้อมูลที่สามารถระบุตัวตนของท่าน (ข้อมูลส่วนบุคคล) 
-ซึ่งมีความเกี่ยวข้องกับการให้บริการของเราผ่านทางเว็บไซต์ Gochumphon.com และแอปพลิเคชัน GoChumphon เราขอให้ท่านได้โปรดอ่านนโยบายความเป็นส่วนตัวต่อไปนี้ก่อนกดปุ่มตกลงให้
-ความยินยอมเกี่ยวกับข้อมูลส่วนบุคคลของท่าน เมื่อกดปุ่มตกลงท่านตกลงว่าท่านได้อ่าน ยอมรับ และให้ความยินยอมเกี่ยวกับข้อมูลส่วนบุคคลตามที่ระบุในนโยบายความเป็นส่วนตัวนี้
 
-- อนึ่ง การที่ท่านใช้บริการเว็บไซต์ Gochumphon.com และแอปพลิเคชัน GoChumphon นี้ ถือว่า
-ท่านได้ตกลงที่จะยอมรับและผูกพัน กับเงื่อนไขและข้อกำหนดตามที่ระบุเอาไว้ในนโยบายความเป็นส่วนตัว
-นี้ทุกประการแล้ว หากท่านไม่ประสงค์ที่ จะผูกพันหรือปฏิบัติตามนโยบายความเป็นส่วนตัวนี้ ท่านสามารถ
-ทำได้โดยเพียงไม่ใช้บริการต่อไปและออกจาก เว็บไซต์ Gochumphon.com และแอปพลิเคชันGoChumphon
+### Introduction  
+Our privacy policy will help you understand what information we collect at GoChumphon, how GoChumphon uses it, and what choices you have.
+GoChumphon built the GoChumphon app as a free app. This SERVICE is provided by GoChumphon at no cost and is intended for use as is.
+If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
 
-- ทั้งนี้ ท่านสามารถใช้บริการเว็บไซต์ Gochumphon.com และแอปพลิเคชัน GoChumphon เพื่อ
-เยี่ยมชมข้อมูลและค้นหาบริการต่าง ๆ ของ เว็บไซต์ Gochumphon.com และแอปพลิเคชัน GoChumphon
-ได้ โดยที่ไม่ต้องเปิดเผยตัวตนหรือให้ข้อมูลส่วนบุคคลใดๆ ที่เกี่ยวกับตัวท่าน เแต่หากท่านมีความประสงค์ที่
-จะใช้บริการหรือเข้าถึงข้อมูลบางประการ อาทิเช่น การลงทะเบียนเพื่อการใช้บริการการจองโรงแรมที่พัก
-การรีวิวและแสดงความคิดเห็นสถานที่ การขอสถานะเป็นผู้ดูแล ท่านจะต้องปฏิบัติตามเงื่อนไขและ
-ข้อก าหนดตามที่ระบุเอาไว้ในเว็บไซต์ เว็บไซต์ Gochumphon.com และแอปพลิเคชัน GoChumphon และ
-นโยบายความเป็นส่วนตัว โดยท่านอาจมีความจำเป็นที่จะต้องเปิดเผยหรือให้ข้อมูลส่วนบุคคลของท่าน เช่น 
-ชื่อของท่าน หมายเลขบัตรประจำตัวประชาชน เบอร์โทรศัพท์ อีเมล หรือที่อยู่ เป็นต้น เพื่อให้สามารถใช้
-บริการหรือเข้าถึงข้อมูลได้อย่างเหมาะสมต่อไป
+### Information Collection and Use  
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
+The app does use third party services that may collect information used to identify you. 
 
-- ในฐานะผู้เยี่ยมชม Gochumphon.com คุณสามารถจัดการควบคุมทุกความประสงค์ในการวางแผน
-ท่องเที่ยว อันได้แก่ การจัดการข้อมูลต่าง ๆ ที่ส่งให้ Gochumphon.com สิ่งส าคัญคือ การที่เรา เคารพใน
-ความเป็นส่วนตัวของผู้เยี่ยมชม Gochumphon.com อยู่เสมอ
+### Cookies  
+Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
 
+This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
 
-ข้อมูลอื่น ๆ เกี่ยวกับความเป็นส่วนตัว
+### Location Information  
+Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
 
+### Device Information  
+We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
 
-**1. นโยบายความเป็นส่วนตัวนี้ใช้กับใคร?**
+### Service Providers  
+We may employ third-party companies and individuals due to the following reasons:  
+* To facilitate our Service;
+* To provide the Service on our behalf;
+* To perform Service-related services; or
+* To assist us in analyzing how our Service is used.  
 
-นโยบายความเป็นส่วนตัวนี้ใช้กับผู้ใช้งานและผู้ให้บริการสถานที่ท่องเที่ยว โรงแรมและที่พัก ร้านค้า 
-และร้านอาหารที่เข้าร่วมกับ Gochumphon.com และสมัครใจที่จะเปิดเผยข้อมูลแก่เว็บไซต์เพื่อวัตถุประสงค์
-ทางการท่องเที่ยว และนักท่องเที่ยวที่สมัครใจเป็นสมาชิกของ Gochumphon.com เพื่อประโยชน์ในการ
-ค้นหาสถานที่ หรือแสดงความคิดเห็นต่าง ๆ
+We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
 
+### Security  
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
 
-**2.GOCHUMPHON.COM รวบรวมข้อมูลอะไร?**
+### Children’s Privacy  
+This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
 
-   - ก. ข้อมูลที่คุณมอบให้แก่ Gochumphon.com
-   
-   เพื่อที่จะสร้างหน้าประวัติออนไลน์ของคุณหรือรับข้อเสนอและจดหมายข่าว คุณจำเป็นที่จะต้อง
-กรอกข้อมูลส่วนตัวบางอย่างให้แก่ทางเว็บไซต์ gochumphon.com ดังที่เครื่องหมาย ‘*’ ปรากฏใน
-แบบฟอร์มสมัครสมาชิก
+### Changes to This Privacy Policy  
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
 
-   - ข. ความพึงพอใจของผู้ใช้
-   
-   สมาชิกสามารถเลือกที่จะให้ข้อมูลความคิดเห็นในการท่องเที่ยวและข้อมูลส่วนตัวต่าง ๆ แก่ 
-Gochumphon.com ที่จะนำไปใช้ในการประเมินความพึงพอใจในการเดินทางไปสถานที่นั้น ๆ
-
-
-**ข. ข้อมูลที่ Gochumphon.com เก็บรวบรวม**
-
-- Gochumphon.com รวบรวมข้อมูลหมายเลขไอพี แอดเดรส เพื่อช่วยวิเคราะห์ปัญหาเกี่ยวกับเซอร์
-เวอร์และการบริหารจัดการระบบ โปรดทราบว่าเรา อาจมีลิ้งค์ไปยังเว็บไซต์ภายนอกปรากฏในเว็บไซต์ของ
-เรา ซึ่งสามารถรวบรวมข้อมูลส่วนตัวของคุณได้ นโยบายความเป็นส่วนตัวนี้ไม่ได้ครอบคลุมถึงการรวบรวม
-ข้อมูลและนโยบายของเว็บไซต์เหล่านั้น
-
-- นอกเหนือจากหมายเลขไอพี แอดเดรส Gochumphon.com รวบรวมข้อมูลบางอย่างโดยอัตโนมัติ
-เมื่อคุณเข้าเยี่ยมชมเว็บไซต์ ข้อมูลบางส่วนนั้นมาจาก cookies (ดูด้านล่าง) และ sessions เรา ยังสามารถ
-รวบรวมข้อมูลประเภทของเบราว์เซอร์ ระบบปฏิบัติการของคุณ วันและเวลาที่เข้าเยี่ยมชมเว็บไซต์ และ 
-Internet address ของเว็บไซต์ที่เชื่อมต่อคุณมายัง Gochumphon.com ได้โดยอัตโนมัติ
-
-- Cookies คือ ชิ้นส่วนข้อมูลเล็ก ๆ ที่ถูกจัดเก็บโดยเบราว์เซอร์ของคุณ ไว้ใน hard drive ของ
-คอมพิวเตอร์ของคุณ Gochumphon.com ใช้ประโยชน์จาก Cookies นี้หลากหลายวิธี หนึ่งคือทำให้คุณ
-สามารถเข้าสู่ระบบได้โดยไม่ต้องพิมพ์ชื่อสมาชิกทุกครั้ง โดยใช้เพียงรหัสผ่านในการเข้าสู่ระบบ สองคือใช้ 
-Cookies ในการติดตามการใช้งานของผู้ใช้ทั่วไป หรือ “Guest” เว็บเบราว์เซอร์ทั่วไปจะยอมรับการทำงาน
-ของ Cookies โดยอัตโนมัติ แต่คุณสามารถปิดกั้นการทำงานของ Cookies ได้ที่ตัวเลือกเบราว์เซอร์ของคุณ
-
-
-**3. GOCHUMPHON.COM นำข้อมูลส่วนตัวไปใช้อย่างไร เช่น ข้อมูลจะถูกแบ่งปันกับใคร ?**
-
-- เราจะไม่ขายข้อมูลชื่อ และข้อมูลประวัติส่วนตัวของลูกค้าให้แก่กลุ่มบุคคลที่สาม ทั้งในปัจจุบันและ
-ในอนาคต ยกเว้นกรณีดังต่อไปนี้ ในบางครั้ง Gochumphon.com จะให้บุคคลที่สามมาดำเนินการโครงการ
-ต่าง ๆ การสำรวจตลาด ข้อมูลทางสถิติทำให้เรามีความจำเป็นที่จะมอบข้อมูลเหล่านี้ให้แก่กลุ่ม เพื่อการ
-ดำเนินการโครงการดังกล่าว ข้อมูลเหล่านี้จะได้รับการรักษาความปลอดภัยภายใต้ข้อตกลงลับ ซึ่งต้องอยู่
-ภายใต้หลักการของนโยบายคุ้มครองข้อมูลส่วนบุคคลนี้
-
-- เราไม่อนุญาตให้กลุ่มบุคคลที่สามโฆษณาบน Gochumphon.com และไม่มีการรวบรวม Cookies 
-ของกลุ่มบุคคลที่สามเพื่อผลประโยชน์เชิงโฆษณา กลุ่มบุคคลที่สามกลุ่มเดียวที่สามารถโพส “โฆษณา” บน 
-Gochumphon.com ได้คือ องค์กรไม่แสวงหาผลกำไรที่เกี่ยวข้องกับหน่วยงานรัฐบาล
-
-
-**4. การรักษาความปลอดภัยรูปแบบไหนที่ GOCHUMPHON.COM ใช้รักษาความเป็นส่วนตัวของคุณ**
-
-- เพื่อความปลอดภัยของข้อมูลส่วนบุคคลของคุณ เราได้กำหนดมาตรการทางเทคนิคเพื่อความ
-ปลอดภัยไว้บางประการ เช่น อาจมีการกำหนดระบบความปลอดภัยด้านเทคนิคระดับสูงไว้ในระบบการ
-ทำงานทั้งหมด (ทั้งสำหรับการตรวจย้อน การกู้ข้อมูลกรณีเกิดภัยพิบัติ การจำกัดการสืบค้น เป็นต้น) 
-นอกจากนี้เรายังมีนโยบายเพื่อเป็นข้อตกลงให้ผู้ดูแลระบบให้รักษาความลับของผู้ใช้งาน
-
-
-**5. คุณสามารถแก้ไขข้อมูลส่วนตัวที่ GOCHUMPHON.COM บันทึกไว้ให้ถูกต้องได้อย่างไร?**
-
-- เรา จะยอมรับว่าข้อมูลที่ผู้ใช้มอบให้นั้นมีความสมบูรณ์และถูกต้อง ดังนั้นจึงเป็นสิ่งสำคัญที่เราจะทำ
-ให้คุณสามารถปรับเปลี่ยนหรืออัพเดตข้อมูลที่คุณคิดว่าไม่ถูกต้องหรือไม่ครบถ้วน เราจึงทำให้การแก้ไข
-ข้อมูลเป็นไปได้ง่ายที่สุดเท่าที่จะทำได้ ในการปรับแก้ข้อมูล เข้าสู่ระบบและคลิกข้อมูลบัญชีของคุณ หากคุณ
-พบปัญหาในการเปลี่ยนข้อมูลส่วนตัวของคุณ กรุณาติดต่อ Administrator ผ่านฟอร์มที่ “ติดต่อเรา”
-
-
-**6. คุณจะรักษาข้อมูลส่วนตัวของคุณให้ปลอดภัยได้อย่างไร?**
-
-- เราต้องการรักษาข้อมูลส่วนตัวของคุณหรือผู้ใช้งานให้ปลอดภัย คือการให้ข้อมูลส่วนตัวของคุณกับ
-เราน้อยที่สุดเท่าที่ทำได้แต่หากให้ข้อมูลส่วนตัวบางอย่างสำหรับการสมัครสมาชิกกับ Gochumphon.com
-การให้ข้อมูลครบถ้วนและถูกต้องจะท าให้การใช้งานเว็บไซต์เกิดประโยชน์และมีประสิทธิภาพอย่างสูงสุด
-
-- นอกจากนี้ เรามีมาตรการด้านความปลอดภัยที่เหมาะสมในการป้องกันการเข้าถึง หรือการแก้ไข
-ข้อมูลโดยไม่ได้รับอนุญาต รวมทั้งมีการตรวจสอบการเข้าถึงข้อมูลดังกล่าว โดยใช้วิธีการเข้ารหัสและความ
-ปลอดภัยทางกายภาพที่เหมาะสมเพื่อป้องกันการ เข้าใช้งานระบบโดยไม่ได้รับอนุญาต
-
-- หากคุณมีความเห็นว่านโยบายความเป็นส่วนตัวของ Gochumphon.com ไม่ครบถ้วนหรือไม่ถูกต้อง 
-ในส่วนที่เกี่ยวข้องกับการใช้งานของสมาชิก กรุณาติดต่อ administrator เพื่อแก้ไขสถานการณ์หากมีความ
-จำเป็น
-
-
-**7. การเปลี่ยนแปลงนโยบายความเป็นส่วนตัว**
-
-- GoChumphon สงวนสิทธิ์ในการเปลี่ยนแปลง แก้ไข หรือปรับปรุงนโยบายความเป็นส่วนตัวได้
-ตลอดเวลาตามที่เห็นสมควร โดยมิต้องแจ้งล่วงหน้า ทั้งนี้ GoChumphon จะแจ้งการเปลี่ยนแปลง แก้ไข 
-หรือปรับปรุงดังกล่าวเอาไว้ในเว็บไซต์ TraveliGo.com ซึ่งท่านสามารถตรวจสอบได้ตลอดเวลา
-
-
-**8. การติดต่อเรา**
-
-- หากคุณมีข้อสงสัยเกี่ยวกับการจัดการข้อมูลส่วนบุคคลของคุณหรือการใช้คุ้กกี้ของเรา หากมีคำถาม 
-ข้อคิดเห็น และคำขอต่าง ๆ เกี่ยวกับนโยบายความเป็นส่วนตัว ให้คลิกที่ “ติดต่อเรา” หรือติดต่อเราได้ทาง
-อีเมล์ gochumphon@gmail.com
-
-
-
+### Contact Us  
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
+Contact Information:  
+Email: gochumphon@gmail.com
